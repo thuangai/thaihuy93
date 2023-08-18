@@ -300,7 +300,7 @@ header {
 .things__dec:nth-child(2) {
   top: initial;
   left: initial;
-  bottom: 8%;
+  bottom: 6%;
   right: 0;
   transform: translateX(-10%);
   z-index: -1;
