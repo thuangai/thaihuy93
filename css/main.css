@@ -82,8 +82,8 @@ header {
 
 /* logo */
 .navbar__logo img {
-  width: 110px;
-  height: 110px;
+  width: 100px;
+  height: 100px;
   object-fit: cover;
 }
 
